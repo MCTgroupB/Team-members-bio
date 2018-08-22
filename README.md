@@ -5,8 +5,6 @@ Team name: M.A.D.E.
 ### Dmitry Vasilev
 Acoustical Engineer and musician. Recent graduate with a M.Sc. in acoustics and a passion for music. By participating in the MCT programme I aim to gain more knowledge about music technology and further strengthen my knowledge of musical programming and applications of machine learning in sound design and music cognition.
 
-![Photo of dmvas](https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/26904342_1905990246382203_1395355067569996423_n.jpg?_nc_cat=0&oh=5a7e10a46ebd7566b83916757e0ae4e8&oe=5C073469)
-
 dmitryscen@gmail.com
 
 [LinkedIn Profile](https://www.linkedin.com/in/dmvas/)
