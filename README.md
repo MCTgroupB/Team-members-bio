@@ -27,7 +27,7 @@ silva.randika@gmail.com
 
 ### Mari Lesteberg
 
-Mari is a 28 years old vocalist, keyboard player, composer and producer, located in Oslo.
+Mari is a vocalist, keyboard player, composer and producer, located in Oslo.
 Her main project is the progressive rock band, Fraction Distraction, where Mari is the vocalist,  keyboardist and main composer. In spring 2017, Mari joined as a keyboard player in the progressive rock band Suburban Savages.
 
 lesteberg@gmail.com
@@ -47,6 +47,8 @@ lesteberg@gmail.com
 [Suburban Savages on Facebook](https://www.facebook.com/SuburbanSavages)
 
 [Suburban Savages on Bandcamp](https://suburbansavages.bandcamp.com/)
+
+![Photo of Mari](https://github.com/MCTgroupB/Team-members-bio/blob/master/maribilde.jpg)
 
 ### Eigil Aandahl
 
