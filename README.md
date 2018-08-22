@@ -30,7 +30,7 @@ silva.randika@gmail.com
 
 [Ashane Silva's YouTube](https://www.youtube.com/user/Ashanous)
 
-### Bio of Mari Lesteberg
+Mari Lesteberg
 
 Mari is a 28 years old vocalist, keyboard player, composer and producer, located in Oslo.
 Her main project is the progressive rock band, Fraction Distraction, where Mari is the vocalist,  keyboardist and main composer. In spring 2017, Mari joined as a keyboard player in the progressive rock band Suburban Savages.
