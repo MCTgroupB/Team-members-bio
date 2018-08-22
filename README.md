@@ -16,6 +16,8 @@ dmitryscen@gmail.com
 [Bandcamp](https://machinesque.bandcamp.com/)
 
 [SoundCloud](https://soundcloud.com/machinesque/)
+![dmvas photo](https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/39869162_2050906625223897_172417781310947328_n.jpg?_nc_cat=0&oh=0e71232b806bf41a0bc7a96adccf55d3&oe=5BF1D5DD)
+
 
 
 ### Ashane Silva
