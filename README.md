@@ -2,9 +2,6 @@
 Team name: M.A.D.E.
 
 # Team-members-bio
-Team description and members' bio
-
-
 ### Dmitry Vasilev
 Acoustical Engineer and musician. Recent graduate with a M.Sc. in acoustics and a passion for music. By participating in the MCT programme I aim to gain more knowledge about music technology and further strengthen my knowledge of musical programming and applications of machine learning in sound design and music cognition.
 
@@ -30,7 +27,7 @@ silva.randika@gmail.com
 
 [Ashane Silva's YouTube](https://www.youtube.com/user/Ashanous)
 
-### Bio of Mari Lesteberg
+### Mari Lesteberg
 
 Mari is a 28 years old vocalist, keyboard player, composer and producer, located in Oslo.
 Her main project is the progressive rock band, Fraction Distraction, where Mari is the vocalist,  keyboardist and main composer. In spring 2017, Mari joined as a keyboard player in the progressive rock band Suburban Savages.
@@ -53,7 +50,7 @@ lesteberg@gmail.com
 
 [Suburban Savages on Bandcamp](https://suburbansavages.bandcamp.com/)
 
-### Bio of Eigil Aandahl
+### Eigil Aandahl
 
 Eigil Aandahl \(pronounced _Aygil On'dahl_\) :loud_sound:
 24 y old from Tromsø in northern Norway. BA in music technology from NTNU. Plays percussion and synthesizers, with a particular interest in modular synthesizers interfacing with digital tech. Is not that active on social media, but can be found on [Facebook](https://www.facebook.com/eigil.aandahl), [Instagram](https://www.instagram.com/eigil94/), and [Discord](https://discordapp.com/) as Eigil94.
