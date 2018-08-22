@@ -1,5 +1,5 @@
 # MCT Group B
-Team name: M.A.D.E.
+Team name: D.A.M.E.
 
 # Team-members-bio
 ### Dmitry Vasilev
