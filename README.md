@@ -15,9 +15,7 @@ dmitryscen@gmail.com
 
 
 ### Ashane Silva
-Ashane Silva is a drummer, audio producer, composer, and the founder of the audio project "The Terra Tomorrow", as well as the founder of "Fatpuppy Audio Productions".
-
-He is a graduate of the University of Colombo, Sri Lanka, in financial mathematics and currently following the MCT programme at the University of Oslo, Norway.
+Ashane Silva is a drummer, audio producer, composer, and the founder of the audio project "The Terra Tomorrow", as well as the founder of "Fatpuppy Audio Productions". He is a graduate of the University of Colombo, Sri Lanka, in financial mathematics and currently following the MCT programme at the University of Oslo, Norway.
 
 silva.randika@gmail.com
 
