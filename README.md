@@ -3,6 +3,8 @@ Team name: D.A.M.E.
 
 We are a diverse and multicultural group with different yet complementary practical skills, theoretical knowledge, and personal characteristics. Yet, the unifying agreement for our group is that *music is key*. We strongly believe in creative application of technology in musical performance and composition, communication, sound synthesis and music production.
 
+We are motivated, passionate, and eager to learn and play, and can't wait to share our *musical identities* with each other and the rest of the MCT students.
+
 # Team-members-bio
 ### Dmitry Vasilev
 Acoustical Engineer and musician. Recent graduate with a M.Sc. in acoustics and a passion for music. By participating in the MCT programme I aim to gain more knowledge about music technology and further strengthen my knowledge of musical programming and applications of machine learning in sound design and music cognition.
