@@ -16,9 +16,8 @@ dmitryscen@gmail.com
 [Bandcamp](https://machinesque.bandcamp.com/)
 
 [SoundCloud](https://soundcloud.com/machinesque/)
-![dmvas photo](https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/39869162_2050906625223897_172417781310947328_n.jpg?_nc_cat=0&oh=0e71232b806bf41a0bc7a96adccf55d3&oe=5BF1D5DD)
 
-
+![dima performing](https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/39880801_2050914391889787_2028684513290223616_n.jpg?_nc_cat=0&oh=9d99baeb20372179a08fbdb75dd8c429&oe=5BFAEEE8)
 
 ### Ashane Silva
 Ashane Silva is a drummer, audio producer, composer, and the founder of the audio project "The Terra Tomorrow", as well as the founder of "Fatpuppy Audio Productions". He is a graduate of the University of Colombo, Sri Lanka, in financial mathematics and currently following the MCT programme at the University of Oslo, Norway.
@@ -32,7 +31,6 @@ silva.randika@gmail.com
 [Ashane Silva's YouTube](https://www.youtube.com/user/Ashanous)
 
 ### Mari Lesteberg
-
 Mari is a vocalist, keyboard player, composer and producer, located in Oslo.
 Her main project is the progressive rock band, Fraction Distraction, where Mari is the vocalist,  keyboardist and main composer. In spring 2017, Mari joined as a keyboard player in the progressive rock band Suburban Savages.
 
@@ -57,7 +55,6 @@ lesteberg@gmail.com
 ![Photo of Mari](https://github.com/MCTgroupB/Team-members-bio/blob/master/maribilde.jpg)
 
 ### Eigil Aandahl
-
 Eigil Aandahl \(pronounced _Aygil On'dahl_\) :loud_sound:
 24 y old from Tromsø in northern Norway. BA in music technology from NTNU. Plays percussion and synthesizers, with a particular interest in modular synthesizers interfacing with digital tech. Is not that active on social media, but can be found on [Facebook](https://www.facebook.com/eigil.aandahl), [Instagram](https://www.instagram.com/eigil94/), and [Discord](https://discordapp.com/) as Eigil94.
 Other activities include swimming, hiking and playing different videogames, and can be found on [Steam](https://steamcommunity.com/id/eigil94).
