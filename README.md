@@ -30,6 +30,8 @@ silva.randika@gmail.com
 
 [Ashane Silva's YouTube](https://www.youtube.com/user/Ashanous)
 
+![Ashane](https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/998808_665348266818985_1003381013_n.jpg?_nc_cat=0&oh=24e081cdaefadca0220678050978ffce&oe=5BF63254)
+
 ### Mari Lesteberg
 Mari is a vocalist, keyboard player, composer and producer, located in Oslo.
 Her main project is the progressive rock band, Fraction Distraction, where Mari is the vocalist,  keyboardist and main composer. In spring 2017, Mari joined as a keyboard player in the progressive rock band Suburban Savages.
