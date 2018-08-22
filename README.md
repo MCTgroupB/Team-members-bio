@@ -37,19 +37,20 @@ Her main project is the progressive rock band, Fraction Distraction, where Mari 
 
 lesteberg@gmail.com
 
-Links:
 [Mari's Youtube channel](https://www.youtube.com/user/maisplante)
+
 [Bandcamp](https://marilesteberg.bandcamp.com/)
+
 [Facebook](https://www.facebook.com/FractionMari/)
+
 [Soundcloud](https://soundcloud.com/mari-lesteberg)
 
 [Fraction Distraction on Soundcloud](https://soundcloud.com/fractiondistraction)
+
 [Fraction Distraction on Facebook](https://www.facebook.com/fractiondistraction)
 
 [Suburban Savages on Facebook](https://www.facebook.com/SuburbanSavages)
+
 [Suburban Savages on Bandcamp](https://suburbansavages.bandcamp.com/)
 
-
-lesteberg@gmail.com
 eigil94@gmail.com
-
